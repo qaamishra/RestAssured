@@ -1,0 +1,23 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "{Username}  optio reprehenderit",
+    "body": "{Password} et rerum est autem sunt rem eveniet architecto",
+    "returnValue": "123"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "{Username} est esse",
+    "body": "{Password} rerum  possimus qui neque nisi nulla",
+    "returnValue": "456"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "{Username}  repellat qui ipsa sit aut",
+    "body": "{Password}  et labore et velit aut",
+    "returnValue": "789"
+  }
+]

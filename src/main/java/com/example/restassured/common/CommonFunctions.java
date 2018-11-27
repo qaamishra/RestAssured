@@ -1,8 +1,9 @@
 package com.example.restassured.common;
 
-import com.jayway.restassured.RestAssured;
-import com.jayway.restassured.path.json.JsonPath;
-import com.jayway.restassured.response.Response;
+
+import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+import io.restassured.response.Response;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.json.JSONException;
@@ -12,8 +13,10 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
-import static com.jayway.restassured.RestAssured.get;
-import static com.jayway.restassured.RestAssured.given;
+
+import static io.restassured.RestAssured.get;
+import static io.restassured.RestAssured.given;
+
 
 /**
  * Created by Ashutosh on 13-03-2017.
